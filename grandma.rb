@@ -5,7 +5,7 @@ def speak_to_grandma (phrase)
   if phrase == "DID YOU GO OUT?"
      "No, Not SINCE 1938!"
   else phrase == "I LOVE YOU GRANDMA!"
-     "I LOVE YOU TOO PUMPKIN"
+     "I LOVE YOU TOO PUMPKIN!"
  end
 end
 # def speak_to_grandma(phrase)

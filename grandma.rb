@@ -1,11 +1,12 @@
 def speak_to_grandma (phrase)
   if phrase == "Hi Grandma"
      "Huh?! Speak UP, Sonny!"
-  end
-  if phrase == "DID YOU GO OUT?"
+  elsif phrase == "DID YOU GO OUT?"
      "No, Not SINCE 1938!"
   elsif phrase == "I LOVE YOU GRANDMA!"
      "I LOVE YOU TOO PUMPKIN!"
+  else
+    "Huh?"
  end
 end
 # def speak_to_grandma(phrase)
